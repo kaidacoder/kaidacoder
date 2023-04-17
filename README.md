@@ -1,4 +1,4 @@
 # What i do?
-## I am a lua developer
-## I am currently working on a roblox Script called Versatile Hub
-## Versatiles discord server https://discord.gg/HKnKkeEajS
+## I am currently working on a space exploration game in unity
+## I code in c#
+## All my previous repositories were previous prodjects
