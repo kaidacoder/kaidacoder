@@ -1,4 +1,4 @@
 # What i do?
-## I am currently working on a space exploration game in unity
+## I am currently learning game delopment
 ## I code in c#
 ## All my previous repositories were previous prodjects
