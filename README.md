@@ -5,6 +5,6 @@
 
 
 ```
-Discord:
+Discord: SpyKai#6257
 Versatile Hub:
 ```
