@@ -1,10 +1,7 @@
 # What i do?
-## I am the creator of Versatile Hub.
-## I am currently learning game delopment and 3d design.
-## I code in c# and typescript.
-
-
+## I am a java dev
+## I Make mods from 1.8.9-1.20.1 for Minecraft forge/fabric and mcp
+## I currently use eclipse
 ```
-Discord: SpyKai#6257
-Versatile Hub:
+Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 ```
