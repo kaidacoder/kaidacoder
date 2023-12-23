@@ -1,6 +1,6 @@
 # What i do?
-## I am a Java developer 
-## I use Intellij IDE
+## I do 3d texturing/modeling in blende and substance painter
+## Learning Godot engine
 ```
 Hehehaha
 ```
