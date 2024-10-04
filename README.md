@@ -1,7 +1,7 @@
 # What i do?
-## I do 3d texturing/modeling in blende and Quixel
-## Stuff
+## Im a 3d texture/modeling artist
+## Enjoy games etc
 ## Learning game dev
 ```
-print(":)")
+Github is cool
 ```
